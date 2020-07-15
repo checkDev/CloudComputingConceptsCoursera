@@ -1,4 +1,4 @@
-# CloudComputingConceptsCoursera
+# MemberShip Protocol Implementation (Distributed Systems)
 
 ## Overview
 
